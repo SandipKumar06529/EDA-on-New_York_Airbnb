@@ -1,8 +1,5 @@
  EDA-on-New_York_Airbnb
 
-
-Here's a version without using "we" or "I":
-
 ---
 
 # New York Airbnb Data Analysis
